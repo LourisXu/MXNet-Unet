@@ -1,6 +1,6 @@
 # MXNet-Unet
 Use the library for Deep Learning, [MXNet](http://mxnet.incubator.apache.org/) to achieve this project.
-For details of the model, you can read the paper or visit [my blog](https://louris.cn/2019/09/23/unet-convolutional-networks-for-biomedical-image-segmentation.html/).
+For details of the model, you can read the [paper](http://www.arxiv.org/pdf/1505.04597.pdf).
 
 **Note:**
 - **In order to get output of the same size as the input, padding is added to the convolution layer and the upper sampling layer is modified. (See model.py)**
